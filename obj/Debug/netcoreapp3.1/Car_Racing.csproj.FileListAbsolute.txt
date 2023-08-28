@@ -1,0 +1,17 @@
+C:\Users\Phat\OneDrive\Desktop\Car_Racing\bin\Debug\netcoreapp3.1\Car_Racing.exe
+C:\Users\Phat\OneDrive\Desktop\Car_Racing\bin\Debug\netcoreapp3.1\Car_Racing.deps.json
+C:\Users\Phat\OneDrive\Desktop\Car_Racing\bin\Debug\netcoreapp3.1\Car_Racing.runtimeconfig.json
+C:\Users\Phat\OneDrive\Desktop\Car_Racing\bin\Debug\netcoreapp3.1\Car_Racing.runtimeconfig.dev.json
+C:\Users\Phat\OneDrive\Desktop\Car_Racing\bin\Debug\netcoreapp3.1\Car_Racing.dll
+C:\Users\Phat\OneDrive\Desktop\Car_Racing\bin\Debug\netcoreapp3.1\Car_Racing.pdb
+C:\Users\Phat\OneDrive\Desktop\Car_Racing\obj\Debug\netcoreapp3.1\Car_Racing.CarRacingForm.resources
+C:\Users\Phat\OneDrive\Desktop\Car_Racing\obj\Debug\netcoreapp3.1\Car_Racing.Properties.Resources.resources
+C:\Users\Phat\OneDrive\Desktop\Car_Racing\obj\Debug\netcoreapp3.1\Car_Racing.csproj.GenerateResource.cache
+C:\Users\Phat\OneDrive\Desktop\Car_Racing\obj\Debug\netcoreapp3.1\Car_Racing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Phat\OneDrive\Desktop\Car_Racing\obj\Debug\netcoreapp3.1\Car_Racing.AssemblyInfoInputs.cache
+C:\Users\Phat\OneDrive\Desktop\Car_Racing\obj\Debug\netcoreapp3.1\Car_Racing.AssemblyInfo.cs
+C:\Users\Phat\OneDrive\Desktop\Car_Racing\obj\Debug\netcoreapp3.1\Car_Racing.csproj.CoreCompileInputs.cache
+C:\Users\Phat\OneDrive\Desktop\Car_Racing\obj\Debug\netcoreapp3.1\Car_Racing.dll
+C:\Users\Phat\OneDrive\Desktop\Car_Racing\obj\Debug\netcoreapp3.1\Car_Racing.pdb
+C:\Users\Phat\OneDrive\Desktop\Car_Racing\obj\Debug\netcoreapp3.1\Car_Racing.genruntimeconfig.cache
+C:\Users\Phat\OneDrive\Desktop\Car_Racing\obj\Debug\netcoreapp3.1\Car_Racing.csproj.AssemblyReference.cache
